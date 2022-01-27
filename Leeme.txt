@@ -1,0 +1,15 @@
+DEPENDENCIAS A INSTALAR:
+body-parser
+express
+express-validator
+mysql2
+sequelize
+
+PASOS:
+
+1. crear una base de datos en mysql con el nombre de "agenda" (sin comillas)
+usar algun sistema de servidor local para gestionar, ej:  XAMMP.
+
+2. Iniciar el servidor desde el CMD en la carpeta raiz con el comando (node index.js)
+
+3. Usar postman para hacer las respectivas peticiones.
